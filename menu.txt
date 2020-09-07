@@ -1,3 +1,5 @@
+# Weekday
+
 fish soup
 grilled broccoli
 vegetarian hamburger
@@ -6,3 +8,8 @@ pommes frites
 sausages
 pizza parma
 pasta bolognese
+
+# Weekends
+
+Pizza
+beer
