@@ -11,3 +11,9 @@ pizza spicy margerita
 Vegetarian pizza
 Beyond Hamburgers
 Taco vegan style
+
+# Sunday special
+
+Meatballs
+Fries
+Ice cream
