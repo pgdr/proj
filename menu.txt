@@ -2,6 +2,7 @@ fish soup
 asparagus soup
 vegetarian hamburger
 vegan hamburger
+pommes
 sausages
 pizza parma
 pasta bolognese
