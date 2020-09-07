@@ -3,9 +3,8 @@
 fish soup
 grilled broccoli
 vegetarian hamburger
-beef hamburger
+vegan hamburger
 pommes frites
-sausages
 pizza parma
 pasta bolognese
 
