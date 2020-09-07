@@ -1,15 +1,13 @@
 # Weekday
 
-fish soup
-grilled broccoli
+cauliflower soup
 vegetarian hamburger
 vegan hamburger
 pommes frites
 pizza spicy margerita
-pasta bolognese
 
 # Weekends
 
-Pizza
-Hamburgers
-Taco
+Vegetarian pizza
+Beyond Hamburgers
+Taco vegan style
